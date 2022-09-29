@@ -83,7 +83,6 @@
               </select>
             </div>
           </div>
-          {{ v$.phone }}
           <button
             class="py-[11px] px-[42px] w-full sm:w-[170px] bg-[#16A34A] shadow-[0_1px_2px_0px_rgba(0,0,0,0.05)] rounded-[6px] text-white sm:self-end hover:bg-sky-700"
             @click.prevent="postRequest"
