@@ -1,14 +1,9 @@
 import { createStore } from 'vuex'
+import form from "./module-order";
 
 export default createStore({
-  state: {
-  },
-  getters: {
-  },
-  mutations: {
-  },
-  actions: {
-  },
+
   modules: {
+    form,
   }
 })
