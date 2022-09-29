@@ -1,5 +1,7 @@
 # test-task-autodrive
 
+версия ноды v16.13.1
+
 ## Project setup
 ```
 npm install
